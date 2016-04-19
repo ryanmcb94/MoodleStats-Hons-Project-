@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="HonsService/HonsService.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HonsService/System.cs">
+    <Files>
+      <File FileName="HonsService/LocationEvent.cs" Line="1" Column="14" />
+      <File FileName="HonsService/LocationDB.cs" Line="3" Column="21" />
+      <File FileName="HonsService/MoodleDB.cs" Line="243" Column="37" />
+      <File FileName="HonsService/HonsService.svc.cs" Line="125" Column="10" />
+      <File FileName="HonsService/IHonsService.cs" Line="91" Column="1" />
+      <File FileName="HonsService/Database.cs" Line="2" Column="7" />
+      <File FileName="HonsService/Progam.cs" Line="5" Column="25" />
+      <File FileName="HonsService/System.cs" Line="198" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/HonsService.svc.cs" line="14" column="24" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

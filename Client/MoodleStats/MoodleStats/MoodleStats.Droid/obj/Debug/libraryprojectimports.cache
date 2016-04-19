@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\EggsToGo\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\OxyPlot.Xamarin.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\Xamarin.Controls.BarChart.Android\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\EggsToGo\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\OxyPlot.Xamarin.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\Xamarin.Controls.BarChart.Android\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\EggsToGo.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\OxyPlot.Xamarin.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.Droid\obj\Debug\__library_projects__\Xamarin.Controls.BarChart.Android.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,27 @@
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/MoodleObjects.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/Xamarin.Controls.BarChart.Android.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/OxyPlot.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/OxyPlot.Xamarin.Android.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/EggsToGo.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/Moodle Stats.dll.mdb
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/Moodle Stats.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/Moodle_Stats.Moodle_Stats.apk
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/android/bin/Moodle_Stats.Moodle_Stats.apk
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/layout/main.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/values/strings.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/drawable-hdpi/style_btncreateaccount.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/drawable-hdpi/style_btnlogin.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/layout/dialog_createaccount.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/layout/dialog_login.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/layout/winsplash.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/drawable-hdpi/fulllogo.png
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/layout/wingraph.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/layout/wingraphv2.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/res/drawable-hdpi/spinnerstyle.xml
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/R.cs.flag
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/bin/Debug/Moodle_Stats.Moodle_Stats-Signed.apk
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/uploadflags.txt
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/Moodle Stats.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Clients/MoodleStats/MoodleStats/MoodleStats.Droid/obj/Debug/Moodle Stats.dll.mdb

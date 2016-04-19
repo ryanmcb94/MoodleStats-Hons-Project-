@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:weightSum="100">
+    <EditText
+        android:id="@+id/txtEmail"
+        android:background="@android:drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:textColorHint="#84525252"
+        android:hint="@string/txtEmail"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMoodlePassword"
+        android:inputType="textPassword"
+        android:background="@android:drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/txtEmail"
+        android:hint="@string/txtMoodlePassword"
+        android:textColorHint="#84525252"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtfName"
+        android:background="@android:drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/txtMoodlePassword"
+        android:hint="@string/txtfName"
+        android:textColorHint="#84525252"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtlName"
+        android:background="@android:drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/txtfName"
+        android:hint="@string/txtlName"
+        android:textColorHint="#84525252"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtLocation"
+        android:background="@android:drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/txtlName"
+        android:hint="@string/txtLocation"
+        android:textColorHint="#84525252"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtNewPassword"
+        android:inputType="textPassword"
+        android:background="@android:drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/txtLocation"
+        android:textColorHint="#84525252"
+        android:hint="@string/txtNewPassword"
+        android:textColor="#000"
+        android:layout_marginBottom="0.0dp" />
+    <RelativeLayout
+        android:id="@+id/layoutLin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="30px"
+        android:layout_weight="35">
+        <Button
+            android:id="@+id/btnCreateAccountDialog"
+            android:background="@android:drawable/btn_default"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="60dp"
+            android:layout_below="@id/txtNewPassword"
+            android:hint="@string/btnCreateAccount"
+            android:textColor="#000" />
+    </RelativeLayout>
+</LinearLayout>

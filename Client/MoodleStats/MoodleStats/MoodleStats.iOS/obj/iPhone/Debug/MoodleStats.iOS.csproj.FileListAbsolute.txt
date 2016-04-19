@@ -1,0 +1,8 @@
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\obj\iPhone\Debug\MoodleStats.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\bin\iPhone\Debug\MoodleStatsiOS.exe
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\bin\iPhone\Debug\MoodleStatsiOS.pdb
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\obj\iPhone\Debug\MoodleStatsiOS.exe
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\obj\iPhone\Debug\MoodleStatsiOS.pdb
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\obj\iPhone\Debug\MoodleStatsiOS.exe.mdb
+C:\Users\Ryan McBroom\Dropbox\Napier\Year 4\Honours\Implementation\C#\Clients\MoodleStats\MoodleStats\MoodleStats.iOS\bin\iPhone\Debug\MoodleStatsiOS.exe.mdb

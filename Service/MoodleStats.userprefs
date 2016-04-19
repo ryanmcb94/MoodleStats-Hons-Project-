@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="HonsService\HonsService.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HonsService\Web.config">
+    <Files>
+      <File FileName="HonsService\MoodleDB.cs" Line="1" Column="1" />
+      <File FileName="HonsService\LocationDB.cs" Line="193" Column="34" />
+      <File FileName="HonsService\System.cs" Line="1" Column="1" />
+      <File FileName="HonsService\MoodleStatsService.svc" Line="1" Column="1" />
+      <File FileName="HonsService\ApplicationInsights.config" Line="1" Column="1" />
+      <File FileName="HonsService\Campus.cs" Line="1" Column="1" />
+      <File FileName="HonsService\ClassDiagram1.cd" Line="1" Column="1" />
+      <File FileName="HonsService\ClassDiagram2.cd" Line="1" Column="1" />
+      <File FileName="HonsService\Database.cs" Line="1" Column="1" />
+      <File FileName="HonsService\IMoodleStatsService.cs" Line="1" Column="1" />
+      <File FileName="HonsService\JsonReponce.cs" Line="1" Column="1" />
+      <File FileName="HonsService\packages.config" Line="1" Column="1" />
+      <File FileName="HonsService\Progam.cs" Line="1" Column="1" />
+      <File FileName="HonsService\TestsMoodleDB.cs" Line="1" Column="1" />
+      <File FileName="HonsService\UnitTests.cs" Line="1" Column="1" />
+      <File FileName="HonsService\Web.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

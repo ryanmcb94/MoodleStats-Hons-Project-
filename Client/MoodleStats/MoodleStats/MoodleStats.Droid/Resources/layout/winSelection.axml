@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:weightSum="100">
+    <EditText
+        android:id="@+id/txtTimeSelection"
+        android:gravity="bottom"
+        android:editable="false"
+        android:clickable="false"
+        android:text="@string/txtTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#000"
+        android:minHeight="50dp" />
+    <Spinner
+        android:id="@+id/spnTime"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:prompt="@string/timeSpinnerPrompt"
+        android:minHeight="30dp" />
+    <EditText
+        android:id="@+id/txtCourseSelection"
+        android:gravity="bottom"
+        android:text="@string/txtCourseSelection"
+        android:editable="false"
+        android:clickable="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#000"
+        android:minHeight="50dp" />
+    <Spinner
+        android:id="@+id/spnCourse"
+        android:spinnerMode="dialog"
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:minHeight="30dp" />
+    <RelativeLayout
+        android:id="@+id/layoutRel"
+        android:layout_width="match_parent"
+        android:layout_weight="30"
+        android:layout_height="0dp"
+        android:layout_marginTop="240dp"
+        android:minHeight="50dp">
+        <Button
+            android:id="@+id/btnGraph"
+            android:text="@string/btnShowGraph"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+    </RelativeLayout>
+</LinearLayout>

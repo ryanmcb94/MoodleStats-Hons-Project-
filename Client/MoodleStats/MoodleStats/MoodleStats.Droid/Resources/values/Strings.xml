@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Moodle Statistics</string>
+  <!-- Nav Bar-->
+  
+	<!--Login Window-->
+  <string name="txtCreate">Login or Create an Account</string>
+  <string name="btnLogin">Login</string>
+  <string name="btnCreateAccount">Create New Account</string>
+  <string name="txtEmail">Enter Moodle Email</string>
+  <string name="txtMoodlePassword">Enter Moodle Password</string>
+  <string name="txtfName">First Name</string>
+  <string name="txtlName">Last Name</string>
+  <string name="txtNewPassword">Enter new Password</string>
+  <string name="txtLocation">Enter Town/City</string>
+  <string name="btnBack">Back</string>
+  <string name="txtLogin">Login to App</string>
+<string name="txtUsername">Email</string>
+<string name="txtPassword">Password</string>
+  <!--Main Window-->
+
+  <!-- Selector Window  -->
+  <string name="txtCourseSelection">Select Course/Module to Display</string>
+  <string name="txtTime">Select Amount of Time to be included in graph</string>
+  <string name="btnShowGraph">Show Graph</string>
+
+  <string name="timeSpinnerPrompt">Select a Time frame</string>
+  <string-array name="timeSpinner">
+  	<item>Week</item>
+  	<item>Month</item>
+  	<item>Year</item>
+  </string-array>
+  <string name="spnSelectCourse">Select Course</string>
+
+  <!-- winGraph-->
+  <string name="txtBarYear">Year</string>
+</resources>

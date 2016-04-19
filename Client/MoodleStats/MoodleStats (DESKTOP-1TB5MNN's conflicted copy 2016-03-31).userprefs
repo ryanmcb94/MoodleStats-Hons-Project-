@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="MoodleStats\MoodleStats\MoodleStats.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MoodleStats.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

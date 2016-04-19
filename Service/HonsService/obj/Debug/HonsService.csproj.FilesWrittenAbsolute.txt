@@ -1,0 +1,16 @@
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/MoodleObjects.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/CryptSharp.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.AI.DependencyCollector.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.AI.Web.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.AI.WindowsServer.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/Microsoft.ApplicationInsights.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/MySql.Data.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/ApplicationInsights.config
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/HonsService.dll.mdb
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/bin/HonsService.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/obj/Debug/HonsService.dll
+/Users/Ryan94/Dropbox/Napier/Year 4/Honours/Implementation/C#/Server/HonsService/HonsService/obj/Debug/HonsService.dll.mdb

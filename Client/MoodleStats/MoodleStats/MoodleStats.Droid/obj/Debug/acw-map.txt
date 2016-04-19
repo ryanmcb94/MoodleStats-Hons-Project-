@@ -1,0 +1,44 @@
+MoodleStats.Droid.MainActivity, Moodle Stats;md54317d8a7b50ec6ca3ce527a922464225.MainActivity
+MoodleStats.Droid.MainActivity, Moodle Stats, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54317d8a7b50ec6ca3ce527a922464225.MainActivity
+MoodleStats.Droid.MainActivity;md54317d8a7b50ec6ca3ce527a922464225.MainActivity
+moodlestats.droid.MainActivity;md54317d8a7b50ec6ca3ce527a922464225.MainActivity
+MoodleStats.Droid.dialog_createAccount, Moodle Stats;md54317d8a7b50ec6ca3ce527a922464225.dialog_createAccount
+MoodleStats.Droid.dialog_createAccount, Moodle Stats, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54317d8a7b50ec6ca3ce527a922464225.dialog_createAccount
+MoodleStats.Droid.dialog_createAccount;md54317d8a7b50ec6ca3ce527a922464225.dialog_createAccount
+moodlestats.droid.dialog_createAccount;md54317d8a7b50ec6ca3ce527a922464225.dialog_createAccount
+MoodleStats.Droid.dialog_login, Moodle Stats;md54317d8a7b50ec6ca3ce527a922464225.dialog_login
+MoodleStats.Droid.dialog_login, Moodle Stats, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54317d8a7b50ec6ca3ce527a922464225.dialog_login
+MoodleStats.Droid.dialog_login;md54317d8a7b50ec6ca3ce527a922464225.dialog_login
+moodlestats.droid.dialog_login;md54317d8a7b50ec6ca3ce527a922464225.dialog_login
+MoodleStats.Droid.winSplash, Moodle Stats;md54317d8a7b50ec6ca3ce527a922464225.winSplash
+MoodleStats.Droid.winSplash, Moodle Stats, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54317d8a7b50ec6ca3ce527a922464225.winSplash
+MoodleStats.Droid.winSplash;md54317d8a7b50ec6ca3ce527a922464225.winSplash
+moodlestats.droid.winSplash;md54317d8a7b50ec6ca3ce527a922464225.winSplash
+MoodleStats.Droid.winGraph, Moodle Stats;md54317d8a7b50ec6ca3ce527a922464225.winGraph
+MoodleStats.Droid.winGraph, Moodle Stats, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54317d8a7b50ec6ca3ce527a922464225.winGraph
+MoodleStats.Droid.winGraph;md54317d8a7b50ec6ca3ce527a922464225.winGraph
+moodlestats.droid.winGraph;md54317d8a7b50ec6ca3ce527a922464225.winGraph
+MoodleStats.Droid.dialog_SelectCourse, Moodle Stats;md54317d8a7b50ec6ca3ce527a922464225.dialog_SelectCourse
+MoodleStats.Droid.dialog_SelectCourse, Moodle Stats, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54317d8a7b50ec6ca3ce527a922464225.dialog_SelectCourse
+MoodleStats.Droid.dialog_SelectCourse;md54317d8a7b50ec6ca3ce527a922464225.dialog_SelectCourse
+moodlestats.droid.dialog_SelectCourse;md54317d8a7b50ec6ca3ce527a922464225.dialog_SelectCourse
+EggsToGo.GestureRecognizer, EggsToGo;md5264d60068d4a5f521004783b122a9551.GestureRecognizer
+EggsToGo.GestureRecognizer, EggsToGo, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5264d60068d4a5f521004783b122a9551.GestureRecognizer
+EggsToGo.GestureRecognizer;md5264d60068d4a5f521004783b122a9551.GestureRecognizer
+eggstogo.GestureRecognizer;md5264d60068d4a5f521004783b122a9551.GestureRecognizer
+OxyPlot.Xamarin.Android.PlotView, OxyPlot.Xamarin.Android;md5299a304c8be8cf3eb65572c1cb1ae9a4.PlotView
+OxyPlot.Xamarin.Android.PlotView, OxyPlot.Xamarin.Android, Version=2015.1.741.0, Culture=neutral, PublicKeyToken=null;md5299a304c8be8cf3eb65572c1cb1ae9a4.PlotView
+OxyPlot.Xamarin.Android.PlotView;md5299a304c8be8cf3eb65572c1cb1ae9a4.PlotView
+oxyplot.xamarin.android.PlotView;md5299a304c8be8cf3eb65572c1cb1ae9a4.PlotView
+BarChart.BarsView, Xamarin.Controls.BarChart.Android;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+BarChart.BarsView, Xamarin.Controls.BarChart.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+BarChart.BarsView;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+barchart.BarsView;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+BarChart.LevelsView, Xamarin.Controls.BarChart.Android;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+BarChart.LevelsView, Xamarin.Controls.BarChart.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+BarChart.LevelsView;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+barchart.LevelsView;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+BarChart.BarChartView, Xamarin.Controls.BarChart.Android;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
+BarChart.BarChartView, Xamarin.Controls.BarChart.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
+BarChart.BarChartView;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
+barchart.BarChartView;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
